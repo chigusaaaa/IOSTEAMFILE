@@ -23,7 +23,7 @@ public class Barang {
         return stok;
     }
 
-    // Mengubah objek menjadi satu baris teks
+   
     public String keBaris() {
         return nama + ";" + harga + ";" + stok;
     }
